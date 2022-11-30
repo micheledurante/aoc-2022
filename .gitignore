@@ -1,0 +1,19 @@
+# General
+*.cache
+*.idlk
+*.TMP
+
+#IDE files
+.vs/
+.idea/
+
+# VS project
+packages/
+**/bin/*
+**/obj/*
+**/Properties/*
+
+# coverage
+TestResults/
+*_coverage.xml
+results.xml
