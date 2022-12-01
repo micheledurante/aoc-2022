@@ -6,7 +6,16 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Data\" />
+    <None Remove="Data\day01.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Data\day01.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="notes\" />
   </ItemGroup>
 
