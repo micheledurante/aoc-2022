@@ -13,6 +13,7 @@ namespace AoC2022
         static void Main(string[] args)
         {
             Console.WriteLine("Day 1: " + Day01.Run(ReadInput("day01.txt")));
+            Console.WriteLine("Day 2: " + Day02.Run(ReadInput("day02.txt")));
             Console.WriteLine("Press any key to quit...");
             Console.ReadKey();
         }
