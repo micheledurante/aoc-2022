@@ -14,6 +14,7 @@ namespace AoC2022
         {
             Console.WriteLine("Day 1: " + Day01.Run(ReadInput("day01.txt")));
             Console.WriteLine("Day 2: " + Day02.Run(ReadInput("day02.txt")));
+            Console.WriteLine("Day 3: " + Day03.Run(ReadInput("day03.txt")));
             Console.WriteLine("Press any key to quit...");
             Console.ReadKey();
         }
