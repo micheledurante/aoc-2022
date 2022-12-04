@@ -1,0 +1,9 @@
+﻿277 too low
+
+971 too high
+
+
+if ((pair[1][0] >= pair[0][0] && pair[1][1] <= pair[0][1]) || (pair[0][0] >= pair[1][0] && pair[0][1] <= pair[1][1]))
+                {
+                    part1++;
+                }
