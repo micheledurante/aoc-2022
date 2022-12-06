@@ -15,7 +15,7 @@ namespace AoC2022
 {
     class Day02
     {
-        public static (int, int) Run(string[] input)
+        public (int, int) Run(string[] input)
         {
             // if draw AX,BY,CZ = 3
 

@@ -7,7 +7,7 @@ namespace AoC2022
 {
     class Day03
     {
-        public static (int, int) Run(string[] input)
+        public (int, int) Run(string[] input)
         {
             var part1 = 0;
             var part2 = 0;

@@ -7,7 +7,7 @@ namespace AoC2022
 {
     class Day01
     {
-        public static (int, int) Run(string[] input)
+        public (int, int) Run(string[] input)
         {
             var calories = new int[1000];
             var counter = 0;
