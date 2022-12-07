@@ -30,7 +30,7 @@ namespace AoC2022
 
             for (var i = 13; i < input[0].Length; i++)
             {
-                var set = new HashSet<char>(4);
+                var set = new HashSet<char>(14);
 
                 for (var x = 0; x < 14; x++)
                 {

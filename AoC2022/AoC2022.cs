@@ -18,6 +18,7 @@ namespace AoC2022
             Console.WriteLine("Day 4: " + new Day04().Run(ReadInput("day04.txt")));
             Console.WriteLine("Day 5: " + new Day05().Run(ReadInput("day05.txt")));
             Console.WriteLine("Day 6: " + new Day06().Run(ReadInput("day06.txt")));
+            Console.WriteLine("Day 7: " + new Day07().Run(ReadInput("day07.txt")));
             Console.WriteLine("Press any key to quit...");
             Console.ReadKey();
         }

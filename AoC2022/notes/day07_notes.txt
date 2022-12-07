@@ -1,0 +1,15 @@
+﻿//cur = cur.Remove(cur.LastIndexOf('/'));
+
+1306917
+1509452 too low
+1792222
+1969677 too high
+
+975429
+1035571 needed
+1112963
+1112963
+112219 too low
+
+28 964 429
+
